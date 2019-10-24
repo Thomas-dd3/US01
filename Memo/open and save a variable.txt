@@ -1,0 +1,9 @@
+import pickle
+
+Save the variable "a":
+	with open('test.pickle','wb') as fp:
+    		pickle.dump(a,fp)
+
+Open the variable in "b":
+	with open('test.pickle','rb') as fp:
+    		b = pickle.load(fp)

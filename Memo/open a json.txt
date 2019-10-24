@@ -1,0 +1,4 @@
+import json
+
+with open('name_of_the_file','r', encoding='utf-8') as fp:
+    data = json.load(fp)

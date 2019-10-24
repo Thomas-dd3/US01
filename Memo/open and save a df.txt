@@ -1,0 +1,6 @@
+import pandas as pd
+
+Open a df :
+	df = pd.read_pickle('savedDF.pickle')
+Save a df :
+	df.to_pickle("savedDF.pickle")
