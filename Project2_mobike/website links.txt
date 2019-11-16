@@ -1,0 +1,6 @@
+Geopandas : http://geopandas.org/reference.html
+github bounding box cities : https://github.com/amyxzhang/boundingbox-cities/blob/master/boundbox.txt
+Transformation point degrees/meters map: http://epsg.io
+
+
+type of a variable in python: type(myvariable)
