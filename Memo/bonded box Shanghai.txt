@@ -1,0 +1,5 @@
+bonded box Shanghai:
+topSh = 31.51499
+rightSh = 121.80461
+bottomSh = 30.975
+leftSh = 121.10157
